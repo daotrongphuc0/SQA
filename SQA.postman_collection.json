@@ -16,7 +16,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"name\":\"dtp\",\r\n    \"diaChi\": \"Thai Binh\" ,\r\n    \"email\":\"dtp@gmail.com\",\r\n    \"sdt\":\"01233456\",\r\n    \"maSoThue\":\"000000001\",\r\n    \"username\":\"dtpClient\",\r\n    \"password\":\"1\",\r\n    \"role\" : {\r\n        \"isAdmin\":\"1\",\r\n        \"xuatBaoCao\":\"1\",\r\n        \"xemDanhSach\":\"1\",\r\n        \"cauHinh\":\"1\"\r\n    }\r\n}",
+							"raw": "{\r\n    \"name\":\"dtp\",\r\n    \"diaChi\": \"Thai Binh\" ,\r\n    \"email\":\"dtp@gmail.com\",\r\n    \"sdt\":\"01233456\",\r\n    \"maSoThue\":\"000000001\",\r\n    \"username\":\"dtpClient111\",\r\n    \"password\":\"11\",\r\n    \"role\" : {\r\n        \"isAdmin\":\"1\",\r\n        \"xuatBaoCao\":\"1\",\r\n        \"xemDanhSach\":\"1\",\r\n        \"cauHinh\":\"1\"\r\n    }\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"

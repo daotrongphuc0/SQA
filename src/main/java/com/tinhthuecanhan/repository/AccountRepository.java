@@ -6,4 +6,5 @@ import com.tinhthuecanhan.entity.AccountEntity;
 
 public interface AccountRepository extends JpaRepository<AccountEntity, Long>{
 	AccountEntity findOneByUsernameAndPassword(String username,String password);
+	AccountEntity findOneByUsername(String username);
 }
